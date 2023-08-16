@@ -2,6 +2,7 @@ Hello Main saja
 
 Mencoba menambahkan pembaruah deskripsi
 
+Squash 0
 Squash 1
 Squash 2
 Squash 3
